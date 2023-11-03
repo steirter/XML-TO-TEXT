@@ -1,7 +1,7 @@
 import re
 from bs4 import BeautifulSoup as bs
 
-with open('C:/Users/ruben/Documents/Itinera/pythonscript/itinera.WordPress.2023-10-27.xml', 'r', encoding="utf-8") as f:
+with open('/source.xml', 'r', encoding="utf-8") as f:
     data = f.read()
 
 bs_data = bs(data, "xml")
