@@ -20,4 +20,3 @@ for item in b_item:
 # text = str(b_item[1])
 # print(text)
 
-# TODO uitvogelen hoe library installeren
