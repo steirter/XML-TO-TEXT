@@ -1,0 +1,12 @@
+<img width="241" height="8" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy" />															
+			<h1>Zij vonden in Itinera de juiste partner</h1>		
+		<p>Itinera staat klaar voor organisaties en werknemers met een veelzijdig aanbod aan opleidingen, coachings en andere HR-dienstverlening. Samen met jou stippelen we het pad uit naar meer loopbaangeluk. Lees hieronder de getuigenissen van je voorgangers.</p>		
+			[post_grid id="1193"]		
+															<img width="1183" height="800" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-318.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-318.png 1183w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-318-300x203.png 300w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-318-1024x692.png 1024w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-318-768x519.png 768w" sizes="(max-width: 1183px) 100vw, 1183px" />															
+															<img width="249" height="249" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png 249w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon-150x150.png 150w" sizes="(max-width: 249px) 100vw, 249px" />															
+															<img width="39" height="6" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/dots.png" alt="" loading="lazy" />															
+			<h2>Een mensgerichte en respectvolle aanpak </h2>		
+		<p>De rode draad in onze aanpak is de persoonlijke benadering. Als trouwe reisgezel willen we mensen laten openbloeien in hun loopbaan en bedrijven laten groeien. Het traject is afgestemd op jouw noden en verwachtingen, waardoor je nieuwe professionele mijlpalen bereikt.</p>		
+			<a href="/contact/" role="button">
+						Klaar om samen aan de slag te gaan?
+					</a>

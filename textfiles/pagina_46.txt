@@ -1,0 +1,22 @@
+<img width="241" height="8" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy" />															
+			<h1>Bedankt voor je inschrijving!</h1>		
+		<p>Je ontvangt 10x jaar een nieuwsbrief met interessante nieuwtjes in de hr-wereld.</p><p>Volg ons</p>		
+					<ul>
+							<li>
+											<a href="https://www.linkedin.com/company/itinera-career-management/" target="_blank" rel="noopener">
+											</a>
+									</li>
+								<li>
+											<a href="https://www.facebook.com/itineracareermanagement/" target="_blank" rel="noopener">
+											</a>
+									</li>
+						</ul>
+															<img width="2457" height="1479" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99.jpg" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99.jpg 2457w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99-300x181.jpg 300w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99-1024x616.jpg 1024w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99-768x462.jpg 768w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99-1536x925.jpg 1536w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_99-2048x1233.jpg 2048w" sizes="(max-width: 2457px) 100vw, 2457px" />															
+															<img width="249" height="249" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png 249w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon-150x150.png 150w" sizes="(max-width: 249px) 100vw, 249px" />															
+															<img width="39" height="6" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/dots.png" alt="" loading="lazy" />															
+			<h2>Adviezen van onze coaches</h2>		
+		<p>Je ontvangt 10x jaar een nieuwsbrief met interessante nieuwtjes in de HR-wereld.</p>		
+			[post_grid id="2277"]		
+			<a href="/advies/" role="button">
+						Bekijk alle artikels
+					</a>

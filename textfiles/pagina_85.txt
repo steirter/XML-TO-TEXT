@@ -1,0 +1,23 @@
+<img width="241" height="8" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy">
+<h1>Et maintenant?</h1>
+Votre candidature a été immédiatement transmise par e-mail au chef de projet d'Itinera.
+
+Le chef de projet effectue une première analyse de votre CV et vérifie si nous pouvons vous proposer une mission immédiatement.
+
+En tout cas, nous vous informons rapidement des éventuelles possibilités de collaboration.
+
+Nous visons toujours à poser les premières bases d’une collaboration respectueuse et fructueuse.
+
+<img width="825" height="1031" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/over-itinera-e1657787448382.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/over-itinera-e1657787448382.png 825w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/over-itinera-e1657787448382-240x300.png 240w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/over-itinera-e1657787448382-819x1024.png 819w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/over-itinera-e1657787448382-768x960.png 768w" sizes="(max-width: 825px) 100vw, 825px">
+<img width="249" height="249" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png 249w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon-150x150.png 150w" sizes="(max-width: 249px) 100vw, 249px">
+<img width="985" height="612" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/voor-kandidaten.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/voor-kandidaten.png 985w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/voor-kandidaten-300x186.png 300w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/voor-kandidaten-768x477.png 768w" sizes="(max-width: 985px) 100vw, 985px">
+<img width="39" height="6" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/dots.png" alt="" loading="lazy">
+<h2>Voici ce qu’une collaboration avec Itinera peut vous apporter :</h2>
+<ol>
+ 	<li>Nous examinons vos compétences et votre motivation par le biais d'un centre de développement. Nous examinons le résultat avec vous et nous considérons les possibilités que nous pouvons vous proposer.</li>
+ 	<li>Nous élaborons un plan de développement des compétences, pour vous permettre de poursuivre votre développement.</li>
+ 	<li>Nous recherchons la mission idéale, nous vous présentons au client et nous vous aidons à mettre en place un plan d'intégration. Nous vous guidons à la fois sur le contenu, sur le plan pratique et émotionnel tout au long de la période d’intégration.</li>
+ 	<li>En fonction du nombre d'heures prestées, vous avez droit à un coaching individuel et à une formation durant le parcours. Vous avez ainsi accès en permanence à un professionnel indépendant.</li>
+ 	<li>Chaque trimestre, nous évaluons la collaboration avec vous et le client dans le cadre d’un entretien ouvert, pour vous permettre de poursuivre l’exécution optimale de votre mission.</li>
+ 	<li>Lorsque la fin de la mission approche, nous recherchons la prochaine mission qui vous correspondra le mieux.</li>
+</ol>

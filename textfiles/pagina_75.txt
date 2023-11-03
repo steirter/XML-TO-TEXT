@@ -1,0 +1,98 @@
+<img width="241" height="8" src="https://itinera.jenieuwewebsite.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy" />															
+			<h1>Comment rendre espoir, courage et motivation à un collaborateur licencié ? Grâce à un accompagnement de reclassement professionnel personnalisé </h1>		
+		<p>Si vous souhaitez des informations complémentaires sur notre approche, nos résultats et nos formules, posez votre question ici.</p><p>Nous sommes impatients de vous aider en vous fournissant toutes les informations dont vous avez besoin.</p><p>À bientôt,</p>		
+					<ul>
+							<li>
+											<a href="tel:080011303">
+										0800 11 303
+											</a>
+									</li>
+								<li>
+											<a href="mailto:Info@itinera-talentcoaching.be">
+										Info@itinera-talentcoaching.be
+											</a>
+									</li>
+						</ul>
+			<a href="/contact/" role="button">
+						D'autres questions?
+					</a>
+			<a href="/contact-loopbaanbegeleiding/" role="button">
+						Inscrivez-vous pour un accompagnement de reclassement professionnel
+					</a>
+<form enctype="multipart/form-data" method="post" id="form_contact-form22"  >
+<fieldset>
+<legend>FR - Contact outplacement</legend>
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="6" />
+<input type="hidden" name="frm_hide_fields_6" id="frm_hide_fields_6" value="" />
+<input type="hidden" name="form_key" value="contact-form22" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_6" name="frm_submit_entry_6" value="ac5dc0b433" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" />
+    <label for="field_qh4icy4" id="field_qh4icy4_label">Nom
+        *
+    </label>
+    <input type="text" id="field_qh4icy4" name="item_meta[50]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Name is ongeldig" aria-invalid="false"  />
+    <label for="field_ocfup14" id="field_ocfup14_label">Prénom
+        *
+    </label>
+    <input type="text" id="field_ocfup14" name="item_meta[51]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Last is ongeldig" aria-invalid="false"  />
+    <label for="field_29yf4d4" id="field_29yf4d4_label">E-mail
+        *
+    </label>
+    <input type="email" id="field_29yf4d4" name="item_meta[52]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Please enter a valid email address" aria-invalid="false"  />
+    <label for="field_6bq3z4" id="field_6bq3z4_label">Tél./GSM
+        *
+    </label>
+    <input type="tel" id="field_6bq3z4" name="item_meta[53]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Phone is ongeldig" aria-invalid="false" pattern="((+d{1,3}(-|.| )?(?d)?(-| |.)?d{1,5})|((?d{2,6})?))(-|.| )?(d{3,4})(-|.| )?(d{4})(( x| ext)d{1,5}){0,1}$"  />
+    <label for="field_e6lis63" id="field_e6lis63_label">Entreprise
+        *
+    </label>
+    <input type="text" id="field_e6lis63" name="item_meta[54]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Subject is ongeldig" aria-invalid="false"  />
+    		<label for="field_1h3f33-0">		<input type="radio" name="item_meta[55]" id="field_1h3f33-0" value="Je suis un employé"
+		   data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"  /> Je suis un employé</label>
+		<label for="field_1h3f33-1">		<input type="radio" name="item_meta[55]" id="field_1h3f33-1" value="Je suis un employeur"
+		   data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"  /> Je suis un employeur</label>
+    <label for="field_9jv0r13" id="field_9jv0r13_label">Je souhaite des informations complémentaires sur:
+        *
+    </label>
+    <textarea name="item_meta[56]" id="field_9jv0r13" rows="5"  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Je souhaite des informations complémentaires sur: est non valide" aria-invalid="false"  ></textarea>
+    <label for="field_d2hnq3" id="field_d2hnq3_label">Comment avez-vous connu Itinera ?
+        *
+    </label>
+    		<select name="item_meta[57]" id="field_d2hnq3"  data-frmval="Google/internet" data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Comment avez-vous connu Itinera ? est non valide" aria-invalid="false"  >
+				<option  value="Google/internet" selected="selected">
+			Google/internet		</option>
+				<option  value="Facebook">
+			Facebook		</option>
+				<option  value="Mond-aan-mond reclame">
+			Mond-aan-mond reclame		</option>
+				<option  value="LinkedIn">
+			LinkedIn		</option>
+				<option  value="E-mailing">
+			E-mailing		</option>
+				<option  value="Workshop">
+			Workshop		</option>
+				<option  value="Netwerk">
+			Netwerk		</option>
+				<option  value="Sectorfonds">
+			Sectorfonds		</option>
+				<option  value="Sociaal Secretariaat">
+			Sociaal Secretariaat		</option>
+				<option  value="Andere">
+			Andere		</option>
+			</select>
+	<label for="field_d2hnq3-otext">Comment avez-vous connu Itinera ?</label><input type="text" id="field_d2hnq3-otext"  name="item_meta[other][57]" value="" />
+    		<label for="field_61w8p4-0"><input type="checkbox" name="item_meta[58][]" id="field_61w8p4-0" value="Je déclare accepter &lt;a href=&quot;/fr/privacybeleid/&quot; target=&quot;_blank&quot;&gt;la déclaration de confidentialité&lt;/a&gt;."  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"   /> Je déclare accepter <a href="/fr/privacybeleid/" target="_blank" rel="noopener">la déclaration de confidentialité</a>.</label>
+    		<label for="field_j30et4-0"><input type="checkbox" name="item_meta[59][]" id="field_j30et4-0" value="Oui, je souhaite être informé des activités d&#039;Itinera."  data-invmsg=" est non valide" aria-invalid="false"   /> Oui, je souhaite être informé des activités d'Itinera.</label>
+    		<label for="field_v909s4-0">		<input type="radio" name="item_meta[60]" id="field_v909s4-0" value="Organisations"
+		   data-invmsg=" est non valide" aria-invalid="false"  /> Organisations</label>
+		<label for="field_v909s4-1">		<input type="radio" name="item_meta[60]" id="field_v909s4-1" value="Candidats"
+		   data-invmsg=" est non valide" aria-invalid="false"  /> Candidats</label>
+	<input type="hidden" name="item_key" value="" />
+				<label for="frm_email_6">
+					Si vous êtes un humain, ne remplissez pas ce champ.				</label>
+				<input type="text" id="frm_email_6" name="frm_verify" value=""  />
+		<input name="frm_state" type="hidden" value="zVUylO6SAc0Udw9C4idLH1hrQd6r9njt050UUnh1PS4=" />
+<button type="submit"   formnovalidate="formnovalidate">Envoyer</button>
+</fieldset>
+</form>

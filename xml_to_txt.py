@@ -1,0 +1,23 @@
+import re
+from bs4 import BeautifulSoup as bs
+
+with open('C:/Users/ruben/Documents/Itinera/pythonscript/itinera.WordPress.2023-10-27.xml', 'r', encoding="utf-8") as f:
+    data = f.read()
+
+bs_data = bs(data, "xml")
+b_item = bs_data.find_all('content:encoded')
+i = 0
+
+for item in b_item:
+    f = open("./textfiles/pagina_%s.txt" % str(i), "w+", encoding="utf-8")
+    for img_tag in item.find_all("img width="):
+        img_tag.extract()
+    cleaned_text = item.getText()
+    f.write(cleaned_text)
+    f.close()
+    i += 1
+
+# text = str(b_item[1])
+# print(text)
+
+# TODO uitvogelen hoe library installeren

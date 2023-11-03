@@ -1,0 +1,35 @@
+<img width="241" height="8" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy" />															
+			<h1>We gaan onmiddellijk aan de slag</h1>		
+		<p>Jouw aanvraag kwam via e-mail bij de projectmanager van Itinera terecht.</p>
+<p>De Project Manager checkt jouw vraag en neemt binnen de 24 uren met jou contact op of bezorgt jouw vraag aan de juiste specialist die jou zal contacteren.</p>
+<p>We hebben daarbij steeds als doel: een tevreden klant is een klant voor het leven.</p>		
+			<a href="/contact/#locaties" role="button">
+						Ontdek onze locaties
+					</a>
+															<img width="523" height="523" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-319-4.png" alt="Clio Van Der Stappen bij Itinera" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-319-4.png 523w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-319-4-300x300.png 300w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Rectangle-319-4-150x150.png 150w" sizes="(max-width: 523px) 100vw, 523px" />															
+															<img width="249" height="249" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png 249w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon-150x150.png 150w" sizes="(max-width: 249px) 100vw, 249px" />															
+															<img width="39" height="6" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/dots.png" alt="" loading="lazy" />															
+			<h2>Wist je al dat</h2>		
+		<ul><li>Itinera al in 2019 haar <b>20<sup>ste</sup> verjaardag</b> vierde.</li><li>Itinera kan bogen op heel wat <b>tevreden stakeholders</b>. Lees <a href="/succesverhalen/"><u>hier</u></a> wat ze over Itinera zeiden.</li><li>Itinera een <b>onafhankelijke speler</b> is binnen de hr-markt en niet gebonden is aan buitenlandse aandeelhouders die geen voeling hebben met de Belgische arbeidsmarkt.</li><li>Alle coaches van Itinera &gt; <b>1.000 uren coachingservaring</b> hebben en zich permanent bijscholen om hun scherpe coachblik te verfijnen.</li></ul>		
+															<img width="2457" height="1479" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1.jpg" alt="Erik Leenders bij Itinera" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1.jpg 2457w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1-300x181.jpg 300w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1-1024x616.jpg 1024w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1-768x462.jpg 768w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1-1536x925.jpg 1536w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/Itinera_low_91-1-2048x1233.jpg 2048w" sizes="(max-width: 2457px) 100vw, 2457px" />															
+															<img width="249" height="249" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png" alt="" loading="lazy" srcset="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon.png 249w, https://itinera-talentcoaching.be/wp-content/uploads/2022/07/favicon-150x150.png 150w" sizes="(max-width: 249px) 100vw, 249px" />															
+															<img width="39" height="6" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/dots.png" alt="" loading="lazy" />															
+			<h2>Je kan Itinera ook aanspreken over de volgende diensten</h2>		
+			<a href="/voor-organisaties/outplacement/" role="button">
+						Outplacement: organisaties
+					</a>
+			<a href="/voor-organisaties/interim-management/" role="button">
+						Interim Management voor hr & financiële profielen
+					</a>
+			<a href="/voor-organisaties/learning-en-development/" role="button">
+						Individuele en teamcoaching
+					</a>
+			<a href="/voor-organisaties/learning-en-development/" role="button">
+						Ontwikkeling van competenties en softskills
+					</a>
+			<a href="/voor-organisaties/assesment-development-center/" role="button">
+						Screening van competenties via Development Centers
+					</a>
+			<a href="/voor-organisaties/hr-consultancy/" role="button">
+						Hr-Consultancy rond diverse topics
+					</a>

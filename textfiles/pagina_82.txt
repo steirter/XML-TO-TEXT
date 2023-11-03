@@ -1,0 +1,104 @@
+<img width="241" height="8" src="https://itinera-talentcoaching.be/wp-content/uploads/2022/07/line-1.png" alt="" loading="lazy" />															
+			<h1>Wens je meer informatie over onze werkwijze of hoe wij jou als interim manager ondersteunen?</h1>		
+		<p>Wil je ontdekken hoe wij een verbindende rol spelen tussen opdrachtgever en interim manager? En hoe je als interim manager een leerrekening kan opbouwen?&nbsp;Stel je vraag hier.</p>
+<p>We kijken ernaar uit om je te helpen met alle nodige informatie.</p>		
+					<ul>
+							<li>
+											<a href="tel:080011303">
+										0800 11 303
+											</a>
+									</li>
+								<li>
+											<a href="mailto:info@itinera-talentcoaching.be">
+										info@itinera-talentcoaching.be
+											</a>
+									</li>
+						</ul>
+			<h2>Ben je opdrachtgever?</h2>		
+			<a href="/contact-opdrachtgever/" role="button">
+						Stel je vraag hier
+					</a>
+			<a href="/contact/" role="button">
+						Andere vragen?
+					</a>
+			<a href="/contact-loopbaanbegeleiding/" role="button">
+						Inschrijven loopbaanbegeleiding
+					</a>
+<form enctype="multipart/form-data" method="post" id="form_contact-form43"  >
+<fieldset>
+<legend>NL - Contact interim managers</legend>
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="13" />
+<input type="hidden" name="frm_hide_fields_13" id="frm_hide_fields_13" value="" />
+<input type="hidden" name="form_key" value="contact-form43" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_13" name="frm_submit_entry_13" value="31f623bdfe" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" />
+    <label for="field_qh4icy63" id="field_qh4icy63_label">Naam
+        *
+    </label>
+    <input type="text" id="field_qh4icy63" name="item_meta[165]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Name is ongeldig" aria-invalid="false"  />
+    <label for="field_ocfup163" id="field_ocfup163_label">Voornaam
+        *
+    </label>
+    <input type="text" id="field_ocfup163" name="item_meta[166]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Last is ongeldig" aria-invalid="false"  />
+    <label for="field_29yf4d63" id="field_29yf4d63_label">E-mail
+        *
+    </label>
+    <input type="email" id="field_29yf4d63" name="item_meta[167]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Please enter a valid email address" aria-invalid="false"  />
+    <label for="field_6bq3z63" id="field_6bq3z63_label">Tel/GSM
+        *
+    </label>
+    <input type="tel" id="field_6bq3z63" name="item_meta[168]" value=""  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Phone is ongeldig" aria-invalid="false" pattern="((+d{1,3}(-|.| )?(?d)?(-| |.)?d{1,5})|((?d{2,6})?))(-|.| )?(d{3,4})(-|.| )?(d{4})(( x| ext)d{1,5}){0,1}$"  />
+    <label for="field_3bg9e3" id="field_3bg9e3_label">Ik had graag meer informatie over:
+        *
+    </label>
+    <textarea name="item_meta[170]" id="field_3bg9e3" rows="5"  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Ik had graag meer informatie over: est non valide" aria-invalid="false"  ></textarea>
+    <label for="field_aco3u3" id="field_aco3u3_label">Upload je CV
+    </label>
+    <input type="hidden" name="item_meta[171][]"  value="" data-frmfile="171" />
+		<input type="file" name="file171[]" id="field_aco3u3"
+			 data-frmfile="171" multiple="multiple"  data-invmsg="Bestandsupload is ongeldig" aria-invalid="false"  			/>
+		<button type="button"></button>
+		<button type="button"></button>
+			Taille de téléchargement maximum : 268.44 Mo		
+    <label for="field_o9uxv3" id="field_o9uxv3_label">Via welk kanaal maakte je kennis met Itinera?
+        *
+    </label>
+    		<select name="item_meta[173]" id="field_o9uxv3"  data-frmval="Google/internet" data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg="Via welk kanaal maakte je kennis met Itinera? est non valide" aria-invalid="false"  >
+				<option  value="Google/internet" selected="selected">
+			Google/internet		</option>
+				<option  value="Facebook">
+			Facebook		</option>
+				<option  value="Mond-aan-mond reclame">
+			Mond-aan-mond reclame		</option>
+				<option  value="LinkedIn">
+			LinkedIn		</option>
+				<option  value="E-mailing">
+			E-mailing		</option>
+				<option  value="Workshop">
+			Workshop		</option>
+				<option  value="Netwerk">
+			Netwerk		</option>
+				<option  value="Sectorfonds">
+			Sectorfonds		</option>
+				<option  value="Sociaal Secretariaat">
+			Sociaal Secretariaat		</option>
+				<option  value="Andere">
+			Andere		</option>
+			</select>
+    		<label for="field_61w8p63-0"><input type="checkbox" name="item_meta[174][]" id="field_61w8p63-0" value="Hierbij verklaar ik dat ik akkoord ga met de &lt;a href=&quot;/privacybeleid/&quot; target=&quot;_blank&quot;&gt;privacyverklaring&lt;/a&gt;."  data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"   /> Hierbij verklaar ik dat ik akkoord ga met de <a href="/privacybeleid/" target="_blank" rel="noopener">privacyverklaring</a>.</label>
+    		<label for="field_j30et63-0"><input type="checkbox" name="item_meta[175][]" id="field_j30et63-0" value="Ja, ik wil graag op de hoogte gehouden worden van Itinera activiteiten en schrijf me graag in op de nieuwsbrief."  data-invmsg=" est non valide" aria-invalid="false"   /> Ja, ik wil graag op de hoogte gehouden worden van Itinera activiteiten en schrijf me graag in op de nieuwsbrief.</label>
+    		<label for="field_v909s63-0">		<input type="radio" name="item_meta[176]" id="field_v909s63-0" value="Voor organisaties"
+		   data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"  /> Voor organisaties</label>
+		<label for="field_v909s63-1">		<input type="radio" name="item_meta[176]" id="field_v909s63-1" value="Voor kandidaten"
+		   data-reqmsg="Dit veld mag niet leeg zijn." aria-required="true" data-invmsg=" est non valide" aria-invalid="false"  /> Voor kandidaten</label>
+    <label for="g-recaptcha-response" id="field_xqsix4_label">reCAPTCHA
+    </label>
+	<input type="hidden" name="item_key" value="" />
+				<label for="frm_email_13">
+					Si vous êtes un humain, ne remplissez pas ce champ.				</label>
+				<input type="text" id="frm_email_13" name="frm_verify" value=""  />
+		<input name="frm_state" type="hidden" value="zVUylO6SAc0Udw9C4idLH1hrQd6r9njt050UUnh1PS4=" />
+<button type="submit"   formnovalidate="formnovalidate">Verzenden</button>
+</fieldset>
+</form>
