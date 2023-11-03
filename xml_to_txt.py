@@ -1,4 +1,3 @@
-import re
 from bs4 import BeautifulSoup as bs
 
 with open('/source.xml', 'r', encoding="utf-8") as f:
@@ -17,6 +16,4 @@ for item in b_item:
     f.close()
     i += 1
 
-# text = str(b_item[1])
-# print(text)
 
